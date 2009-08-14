@@ -1,0 +1,17 @@
+Perl Disk Indexing and Searching (Perl DIAS)
+============================================
+
+I have many external hard drives that have accumulated over the years.
+These Disks are normally connected via USB or eSATA to my laptop and
+they contain all my personal texts, photos, e-books, audios, videos,
+software packages, etc.
+
+So due to an arising need to quickly find the location of a specific
+file on one of those disks and to eliminate duplicate files (especially
+big ones) i wrote these scripts, which are intended for use on a Windows
+system.
+
+They have saved me a lot of time and disk space since.
+
+
+Gerhard Grasboeck
